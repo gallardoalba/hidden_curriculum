@@ -16,9 +16,8 @@ This text aspires to be a introduction on the Critical Learning Theory and the c
 
 ### Contextualising framework
 
-> *Critical thinking aims to define the irrational character of the established rationality.*
-> 
-> Herbert Marcuse, One-dimensional man: Studies in the ideology of advanced industrial society.
+> *Critical thinking aims to define the irrational character of the established rationality.*  
+> — Herbert Marcuse, One-dimensional man: Studies in the ideology of advanced industrial society.
 
 According Critical Theory, education is the result of multiple contextual variables that have an effect on behaviour, ideology and professional development; so it could be said that human beings, as social beings, are educated and transformed by their context. In this line, John Dewey, a distinguished American philosopher and advocate for educational reform, beautifully articulated that the education proposed by society has its roots in society itself. Thus, in order to contextualise current educational practices, we can start by analyzing the current stage of society, the so-called information society.
 
@@ -26,7 +25,8 @@ The information society can be characterised by the interrelationships that link
 
 Contrary to Esteve's assertion, the argentinian sociologists Sara Morgenstern and Lucia Finkel indicate that the information society can function with very few, highly qualified employees who constitute the decisive core of the companies' activity; the remaining skills are outsourced to a mass of precarious workers whose required competences are often embodied in demands for punctuality, organisational skills, non-conflict and submission to authority. Their assertion seems to be confirmed by current technological development.
 
-> *The findings are striking: almost 40 percent of global employment is exposed to AI. Historically, automation and information technology have tended to affect routine tasks, but one of the things that sets AI apart is its ability to impact high-skilled jobs.* Kristalina Georgieva, managing director of the International Monetary Fund.
+> *The findings are striking: almost 40 percent of global employment is exposed to AI. Historically, automation and information technology have tended to affect routine tasks, but one of the things that sets AI apart is its ability to impact high-skilled jobs.*  
+> — Kristalina Georgieva, managing director of the International Monetary Fund.
 
 
 ### Educative systems
@@ -39,9 +39,8 @@ In the face of the conservative claim that educative systems transmit objective 
 
 ### Critical thinking
 
-> *Questioning is an exercise in dismantling those certainties that are installed as layers of truths imposing the tyranny of the obvious.*
->
-> Dario Sztajnzrajbe, ¿Para qué sirve la filosofía?.
+> *Questioning is an exercise in dismantling those certainties that are installed as layers of truths imposing the tyranny of the obvious.*  
+> — Dario Sztajnzrajbe, ¿Para qué sirve la filosofía?.
 
 Before going deeper, it is inportant to accurately define critical thinking, since it is usually concived as a nebulose concept whose applications appears to be limitated to specific situations.
 
@@ -63,15 +62,13 @@ In his famous work *Dialectics of Ideology and Technology*, the American sociolo
 > Some critical theorists of the first generation, including Max Horkheimer, Theodor Adorno and Walter Benjamin, argued that in Western democracies the capacity for critical reasoning is rapidly being eclipsed.
 >
 > Pointing to developments such as the intrusion of the state, the culture industry and the concentration of wealth in fewer and fewer people, these thinkers fear that the ideological and material conditions that make public interaction and critical thinking possible are being undermined by the increasing standardisation, fragmentation and commercialisation of everyday life.
->
 
 From the assumption of this conception of critical thinking a new question arises: is it really in the interest of education system to encourage critical thinking? One element that can help to answer this question is the hidden curriculum.
 
 ## The hidden curriculum
 
-> *Any pedagogy concerned with critical thinking has to consider the form and content of social relations in the classroom.*
->
-> Henry Giroux, Teacher as intellectuals: towards a critical pedagogy of learning.
+> *Any pedagogy concerned with critical thinking has to consider the form and content of social relations in the classroom.*  
+> — Henry Giroux, Teacher as intellectuals: towards a critical pedagogy of learning.
 
 Unlike the official curriculum, with its explicitly stated cognitive and affective objectives, the hidden curriculum relies on those organisational aspects, such as the communicative systems, whose effects on the learning process are generally not consciously perceived by students. On the light of this definition, a new question emerges: which impact has the hidden curriculum on the learning process?
 
@@ -93,10 +90,8 @@ According Marcuse, the education system is political, so aspiring to its politic
 >
 > According to Richard Lewontin and Richard Levins, in the course of the 20th century theories of evolution underwent a shift from an emphasis on directionality to a focus on the state of equilibrium, which can only be understood as ideological in origin.
 >
-> > *Just as the ideas of change and movement were the intellectual foundations of the bourgeois revolution, for the legitimisation of the collapse of the old class relations, the consolidation of that revolution in the latter part of the 19th century and in the 20th century has required a different view of the world, in line with the stabilisation of society. The idea of change had to be repressed in science as it was in society. The result has been the emphasis in modern evolutionary theories on dynamic equilibrium.*
-> >
-> > Richard Lewontin and Richard Levins, The dialectical biologist.
->
+> > *Just as the ideas of change and movement were the intellectual foundations of the bourgeois revolution, for the legitimisation of the collapse of the old class relations, the consolidation of that revolution in the latter part of the 19th century and in the 20th century has required a different view of the world, in line with the stabilisation of society. The idea of change had to be repressed in science as it was in society. The result has been the emphasis in modern evolutionary theories on dynamic equilibrium.*  
+> > — Richard Lewontin and Richard Levins, The dialectical biologist.
 >
 > Similarly, these authors consider that the description of evolution as producing order is also deeply ideological.  An alternative conception is represented by the disorder-function paradigm. In this sense, evolution is neither a fact nor a theory, but a way of organising knowledge about the world.
 >
@@ -130,9 +125,8 @@ Group evaluation can be considered as an adequate pedagogical instrument for ove
 
 ### Conclusion
 
-> *[...] to think is, whether you want or not, to exaggerate. If you prefer not to exaggerate, you must remain silent; or, rather, you must paralyse your intellect and find some way of becoming an idiot.*
->
-> José Ortega y Gasset, The revolt of the masses
+> *[...] to think is, whether you want or not, to exaggerate. If you prefer not to exaggerate, you must remain silent; or, rather, you must paralyse your intellect and find some way of becoming an idiot.*  
+> — José Ortega y Gasset, The revolt of the masses
 
 The underlying message assimilated under the practices of the dominant hidden curriculum, characterized by a unidirectional vision of the teaching-learning process, points less to educative system that help students think critically about the world they live in, than to institutions that promote the internalization of values that emphasise respect for authority, punctuality, cleanliness, docility and conformity.
 
