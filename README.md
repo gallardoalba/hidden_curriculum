@@ -109,9 +109,7 @@ The technological system is a complex arrangement of interconnected components, 
 >
 > Günther Anders (12 July 1902 - 17 December 1992), a German-born philosopher, journalist and critical theorist, stands as a prominent figure known for his insightful reflections on technology, existentialism, and the human condition. Although Anders did not become a formal member of the Frankfurt School, he is considered to have exerted an important influence on some of its members, with whom he maintained a close relationship throughout his life.
 >
-> In 1923, Gunther Anders obtained his Ph.D. in philosophy from the University of Freiburg, having studied under the esteemed philosophers Martin Heidegger and Edmund Husserl.
->
-> On August 2023, the University of Freiburg established a research position at the Institute of Sociology in his honour.
+> In 1923, Gunther Anders obtained his Ph.D. in philosophy from the University of Freiburg, having studied under the esteemed philosophers Martin Heidegger and Edmund Husserl. On August 2023, the University of Freiburg established a research position at the Institute of Sociology in his honour.
 
 Anders challenged the assumption that technology might solely enhance educational processes, encouraging to transcend the temptation to view technology as a complete replacement for traditional, face-to-face engagement. According to him, the most pernicious element of technological devices is their normative power, and particulally the inextricable link between technology and the principle of maximum performance. From this insight we could ask ourselves, how does this impact on education?
 
