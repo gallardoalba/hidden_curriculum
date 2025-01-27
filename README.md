@@ -17,6 +17,7 @@ This text aspires to be a introduction on the Critical Learning Theory and the c
 ### Contextualising framework
 
 > *Critical thinking aims to define the irrational character of the established rationality.*  
+>
 > — Herbert Marcuse, One-dimensional man: Studies in the ideology of advanced industrial society.
 
 According Critical Theory, education is the result of multiple contextual variables that have an effect on behaviour, ideology and professional development; so it could be said that human beings, as social beings, are educated and transformed by their context. In this line, John Dewey, a distinguished American philosopher and advocate for educational reform, beautifully articulated that the education proposed by society has its roots in society itself. Thus, in order to contextualise current educational practices, we can start by analyzing the current stage of society, the so-called information society.
@@ -26,6 +27,7 @@ The information society can be characterised by the interrelationships that link
 Contrary to Esteve's assertion, the argentinian sociologists Sara Morgenstern and Lucia Finkel indicate that the information society can function with very few, highly qualified employees who constitute the decisive core of the companies' activity; the remaining skills are outsourced to a mass of precarious workers whose required competences are often embodied in demands for punctuality, organisational skills, non-conflict and submission to authority. Their assertion seems to be confirmed by current technological development.
 
 > *The findings are striking: almost 40 percent of global employment is exposed to AI. Historically, automation and information technology have tended to affect routine tasks, but one of the things that sets AI apart is its ability to impact high-skilled jobs.*  
+>
 > — Kristalina Georgieva, managing director of the International Monetary Fund.
 
 
@@ -40,6 +42,7 @@ In the face of the conservative claim that educative systems transmit objective 
 ### Critical thinking
 
 > *Questioning is an exercise in dismantling those certainties that are installed as layers of truths imposing the tyranny of the obvious.*  
+>
 > — Dario Sztajnzrajbe, ¿Para qué sirve la filosofía?.
 
 Before going deeper, it is inportant to accurately define critical thinking, since it is usually concived as a nebulose concept whose applications appears to be limitated to specific situations.
@@ -53,7 +56,6 @@ The most common definition comes from the positivist tradition in the applied sc
 > Positivists stress the need for objectivity in the pursuit of knowledge, advocating for the exclusion of personal biases and subjective interpretations. While positivism has significantly influenced the natural sciences, it has also faced criticism for its limitations in addressing subjective experiences, moral values, and aspects of reality that aren't easily quantifiable. Despite these critiques, positivism continues to be a major perspective in the philosophy of science.
 >
 > Max Horkheimer, who played a pivotal role in the Frankfurt School, argued that positivism misrepresent human social action by ignoring the influence of socially and historically mediated human consciousness on social facts. Positivism failed to acknowledge that these social facts are not objective entities but are shaped by observers and the broader social context, leading to a distorted view of reality. Secondly, Horkheimer contended that positivism construction of social reality was politically conservative, maintaining the existing status quo rather than challenging it.
->
 
 In his famous work *Dialectics of Ideology and Technology*, the American sociologist Alvin Gouldner pointed out that, in contrast to this superficial and clearly insufficient conception, critical thinking must be capable of questioning even the logic of reasoning itself, that is, it must be capable of problematising what has hitherto been treated as self-evident, of turning into an object of reflection what had previously been simply a tool.
 
@@ -68,6 +70,7 @@ From the assumption of this conception of critical thinking a new question arise
 ## The hidden curriculum
 
 > *Any pedagogy concerned with critical thinking has to consider the form and content of social relations in the classroom.*  
+>
 > — Henry Giroux, Teacher as intellectuals: towards a critical pedagogy of learning.
 
 Unlike the official curriculum, with its explicitly stated cognitive and affective objectives, the hidden curriculum relies on those organisational aspects, such as the communicative systems, whose effects on the learning process are generally not consciously perceived by students. On the light of this definition, a new question emerges: which impact has the hidden curriculum on the learning process?
@@ -94,7 +97,6 @@ According Marcuse, the education system is political, so aspiring to its politic
 > > — Richard Lewontin and Richard Levins, The dialectical biologist.
 >
 > Similarly, these authors consider that the description of evolution as producing order is also deeply ideological.  An alternative conception is represented by the disorder-function paradigm. In this sense, evolution is neither a fact nor a theory, but a way of organising knowledge about the world.
->
 
 Darío Sztajnszrajber, a prominent argentine philosopher, essayist and teacher, considers that if there were really an interest in fostering critical thinking, the discursive mode that should dominate in the classroom should be the interrogative one. According him, *questioning is a way of thinking, and that is why thinking is not only deriving conclusions, but often consists of the opposite: starting from the accepted conclusions of a community and turning them upside down*. 
 
@@ -126,6 +128,7 @@ Group evaluation can be considered as an adequate pedagogical instrument for ove
 ### Conclusion
 
 > *[...] to think is, whether you want or not, to exaggerate. If you prefer not to exaggerate, you must remain silent; or, rather, you must paralyse your intellect and find some way of becoming an idiot.*  
+>
 > — José Ortega y Gasset, The revolt of the masses
 
 The underlying message assimilated under the practices of the dominant hidden curriculum, characterized by a unidirectional vision of the teaching-learning process, points less to educative system that help students think critically about the world they live in, than to institutions that promote the internalization of values that emphasise respect for authority, punctuality, cleanliness, docility and conformity.
