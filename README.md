@@ -3,7 +3,8 @@
 Cristóbal Gallardo alba
 
 Note: The following text is largely derived from the author's own Master's thesis in education sciences.
-Original text: [El currículum oculto desde la teoría crítica de la educación](https://github.com/user-attachments/files/24839748/thesis_educ.pdf)
+
+Original text: [El currículum oculto desde la teoría crítica de la educación](https://github.com/user-attachments/files/24839748/thesis_educ.pdf).
 
 
 ### Introduction
