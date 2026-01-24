@@ -2,7 +2,12 @@
 
 Cristóbal Gallardo alba
 
+Note: The following text is largely derived from the author's own Master's thesis in education sciences.
+Original text: [El currículum oculto desde la teoría crítica de la educación](https://github.com/user-attachments/files/24839748/thesis_educ.pdf)
+
+
 ### Introduction
+
 
 The Critical Learning Theory  is a pedagogical paradigm rooted in the broader Critical Theory tradition originated with the Frankfurt School of thought, formally known as the Institute for Social Research (*Institut für Sozialforschung*), an academic hub founded in 1923 at Goethe University in Frankfurt, Germany. 
 
